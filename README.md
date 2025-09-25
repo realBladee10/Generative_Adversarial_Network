@@ -1,6 +1,6 @@
 # Fashion-MNIST GAN
 
-This project implements a **Generative Adversarial Network (GAN)** trained on the **![Tensorflow Fashion-MNIST dataset](https://www.tensorflow.org/datasets/catalog/fashion_mnist?hl=pl)**. 
+This project implements a **Generative Adversarial Network (GAN)** trained on the **[Tensorflow Fashion-MNIST dataset](https://www.tensorflow.org/datasets/catalog/fashion_mnist?hl=pl)**. 
 
 The goal of this project is to train a generator that creates realistic images of clothing items such as shirts, shoes, and bags etc. I saw a part of this project in a youtube video few weeks ago - and decided to give it a go myself.
 
